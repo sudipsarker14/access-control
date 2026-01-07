@@ -10,7 +10,7 @@ class AccessLogViewSet(viewsets.ModelViewSet):
     
     def get_queryset(self):
         """
-        Override to add filtering capability
+        Override to add filtering capability bh
         """
         queryset = AccessLog.objects.all()
         
