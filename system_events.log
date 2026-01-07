@@ -6,3 +6,25 @@
 
 [2026-01-07 16:39:36] - DELETE: Access log (ID: 3) for card 16 was deleted.
 
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1002. Status: DENIED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - DELETE: Access log (ID: 1) for card C1001 was deleted.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1002. Status: DENIED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
+[2026-01-07 16:47:15] - CREATE: Access log created for card C1001. Status: GRANTED.
+
